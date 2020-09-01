@@ -2,6 +2,6 @@
 
 I'm a frustated musician and Legend of Zelda fan who also plays with Infrastructure as a Code and Containers. 
 
-- <a href="https://www.caiodelgado.dev">Blog caiodelgado.dev <img width="20" height="20" src=img/sre.png></a> 
+- <a href="https://www.caiodelgado.dev">Blog <img width="20" height="20" src=img/sre.png></a> 
 - <a href="https://twitter.com/caiodelgadonew"> Twitter <img width="20" height="20" src=img/twitter.png></a>
 - <a href="https://www.linkedin.com/in/caio-delgado/">Linked<img width="20" height="20" src=img/linkedin.png></a> 
