@@ -2,8 +2,17 @@
 
 Sou um músico frustrado e fã de Legend of Zelda que gosta de brincar com Infrastrutura como Código e Containers. 
 
-No meu <a href="https://www.youtube.com/caiodelgadonew">Canal do Youtube <img width="20" height="20" src=https://raw.githubusercontent.com/caiodelgadonew/caiodelgadonew/main/img/youtube.png></a> você pode encontrar vários conteúdos sobre DevOps, Infraestrutura como Código, Containers e Muito Mais!! 
+No meu Canal do Youtube você pode encontrar vários conteúdos sobre DevOps, Infraestrutura como Código, Containers e Muito Mais!! 
 
-- <a href="https://www.caiodelgado.dev">Blog <img width="20" height="20" src=https://raw.githubusercontent.com/caiodelgadonew/caiodelgadonew/main/img/sre.png></a> 
-- <a href="https://twitter.com/caiodelgadonew"> Twitter <img width="20" height="20" src=https://raw.githubusercontent.com/caiodelgadonew/caiodelgadonew/main/img/twitter.png></a>
-- <a href="https://www.linkedin.com/in/caio-delgado/">Linked<img width="20" height="20" src=https://raw.githubusercontent.com/caiodelgadonew/caiodelgadonew/main/img/linkedin.png></a> 
+
+[![Youtube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCQnpN5AUd36lnMHuIl_rihA?label=YOUTUBE&logo=youtube&style=for-the-badge)](https://www.youtube.com/caiodelgadonew)
+
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/caiodelgadonew?label=Twitter&logo=twitter&style=for-the-badge)](https://twitter.com/caiodelgadonew)
+
+[![GitHub followers](https://img.shields.io/github/followers/caiodelgadonew?label=GitHub&logo=Github&style=for-the-badge)](https://github.com/caiodelgadonew)
+
+[![Blog](https://img.shields.io/website?down_color=blue&down_message=caiodelgado.dev&label=Blog&logo=ghost&logoColor=green&style=for-the-badge&up_color=blue&up_message=caiodelgado.dev&url=https%3A%2F%2Fcaiodelgado.dev)](https://caiodelgado.dev)
+
+[![Linktr.ee](https://img.shields.io/website?down_message=caiodelgadonew&label=LINKTR.EE&logo=linktree&style=for-the-badge&up_message=caiodelgadonew&url=https%3A%2F%2Flinktr.ee%2Fcaiodelgadonew)](https://linktr.ee/caiodelgadonew)
+
