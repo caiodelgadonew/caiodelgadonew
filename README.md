@@ -33,9 +33,10 @@ Autodefinido músico frustrado, fã de Zelda, e alguém que ocasionalmente derru
 <p align="center">
   <a href="https://nxt.sh"><img src="https://img.shields.io/badge/Website-nxt.sh-FF6B35?style=for-the-badge&logo=internet-explorer&logoColor=white" /></a>
   <a href="https://www.youtube.com/caiodelgadonew"><img src="https://img.shields.io/youtube/channel/subscribers/UCQnpN5AUd36lnMHuIl_rihA?label=YouTube&logo=youtube&style=for-the-badge&logoColor=red" /></a>
+  <a href="https://github.com/caiodelgadonew"><img src="https://img.shields.io/github/followers/caiodelgadonew?label=GitHub&logo=github&style=for-the-badge" /></a>
+  <br/>
   <a href="https://x.com/caiodelgadonew"><img src="https://img.shields.io/badge/X-caiodelgadonew-1DA1F2?logo=x&style=for-the-badge" /></a>
   <a href="https://bsky.app/profile/caiodelgadonew.nxt.sh"><img src="https://img.shields.io/badge/Bluesky-caiodelgadonew-0285FF?logo=bluesky&style=for-the-badge" /></a>
-  <a href="https://github.com/caiodelgadonew"><img src="https://img.shields.io/github/followers/caiodelgadonew?label=GitHub&logo=github&style=for-the-badge" /></a>
 </p>
 
 ---
