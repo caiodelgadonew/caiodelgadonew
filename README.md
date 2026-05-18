@@ -3,7 +3,7 @@
 
 <!-- Language Toggle -->
 <p align="right">
-  <a href="https://github.com/caiodelgadonew/caiodelgadonew">🇬🇧 English</a> · <a href="https://github.com/caiodelgadonew/caiodelgadonew/blob/main/README.pt-br.md">🇧🇷 Português</a>
+  🇬🇧 English · <a href="#user-content-oi-eu-sou-o-caio">🇧🇷 Português</a>
 </p>
 
 <!-- About EN -->
