@@ -1,9 +1,98 @@
-## Oi, Eu sou Caio Delgado <img width="25" height="25" src=https://raw.githubusercontent.com/caiodelgadonew/caiodelgadonew/main/img/triforce.png> <img width="25" height="25" src=https://raw.githubusercontent.com/caiodelgadonew/caiodelgadonew/main/img/penguin.gif> 💻 🎸 <img align="left" width="230" height="250" src="https://raw.githubusercontent.com/caiodelgadonew/caiodelgadonew/main/img/caio.png"></a>
+<!-- Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&fontColor=e0e0e0&height=180&section=header&text=Caio%20Delgado&fontSize=38&fontAlignY=35&desc=Platform%20Engineer%20%7C%20Tech%20Creator%20%7C%20Amsterdam%20%F0%9F%87%B3%F0%9F%87%B1&descSize=18&descAlignY=55" />
 
-Sou um músico frustrado e fã de Legend of Zelda que gosta de brincar com Infrastrutura como Código e Containers. 
+<!-- About -->
+### 👋 Hey, I'm Caio
 
-No meu Canal do Youtube você pode encontrar vários conteúdos sobre DevOps, Infraestrutura como Código, Containers e Muito Mais!! 
+Brazilian tech creator based in **Amsterdam**. Platform Engineer by day, content creator by night.
 
-[![Youtube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCQnpN5AUd36lnMHuIl_rihA?label=YOUTUBE&logo=youtube&style=for-the-badge&logoColor=red)](https://www.youtube.com/caiodelgadonew) [![Twitter Follow](https://img.shields.io/twitter/follow/caiodelgadonew?label=Twitter&logo=twitter&style=for-the-badge)](https://twitter.com/caiodelgadonew) [![GitHub followers](https://img.shields.io/github/followers/caiodelgadonew?label=GitHub&logo=Github&style=for-the-badge)](https://github.com/caiodelgadonew) [![Blog](https://img.shields.io/website?down_color=blue&down_message=caiodelgado.dev&label=Blog&logo=ghost&logoColor=green&style=for-the-badge&up_color=blue&up_message=caiodelgado.dev&url=https%3A%2F%2Fcaiodelgado.dev)](https://caiodelgado.dev) [![Linktr.ee](https://img.shields.io/website?down_message=caiodelgadonew&label=LINKTR.EE&logo=linktree&style=for-the-badge&up_message=caiodelgadonew&url=https%3A%2F%2Flinktr.ee%2Fcaiodelgadonew)](https://linktr.ee/caiodelgadonew)
+I make practical, honest content about **DevOps, containers, homelab, 3D printing**, and tech that actually matters. Sometimes in two languages.
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=caiodelgadonew&hide=java&layout=compact&theme=dark)![Github Stats](https://github-readme-stats.vercel.app/api?username=caiodelgadonew&theme=cobalt&show_icons=true) 
+Self-described frustrated musician, Zelda fan, and someone who occasionally takes down production environments. Not necessarily in that order.
+
+<!-- Links -->
+<p align="center">
+  <a href="https://nxt.sh"><img src="https://img.shields.io/badge/Website-nxt.sh-FF6B35?style=for-the-badge&logo=internet-explorer&logoColor=white" /></a>
+  <a href="https://www.youtube.com/caiodelgadonew"><img src="https://img.shields.io/youtube/channel/subscribers/UCQnpN5AUd36lnMHuIl_rihA?label=YouTube&logo=youtube&style=for-the-badge&logoColor=red" /></a>
+  <a href="https://x.com/caiodelgadonew"><img src="https://img.shields.io/badge/X-caiodelgadonew-1DA1F2?logo=x&style=for-the-badge" /></a>
+  <a href="https://bsky.app/profile/caiodelgadonew.nxt.sh"><img src="https://img.shields.io/badge/Bluesky-caiodelgadonew-0285FF?logo=bluesky&style=for-the-badge" /></a>
+  <a href="https://github.com/caiodelgadonew"><img src="https://img.shields.io/github/followers/caiodelgadonew?label=GitHub&logo=github&style=for-the-badge" /></a>
+</p>
+
+---
+
+<!-- What I Do -->
+### 🎬 What I Do
+
+<table>
+<tr>
+<td width="50%">
+
+**🖥️ Homelab & Mini PCs**
+Building, configuring, reviewing homelab setups. NAS, servers, networking — the whole stack.
+
+**🔍 Tech Reviews**
+Honest, practical reviews. If it's worth your time, I'll tell you. If not, I'll tell you that too.
+
+</td>
+<td width="50%">
+
+**🐳 DevOps & Containers**
+Docker, Terraform, CI/CD. Infrastructure as code explained without the fluff.
+
+**🖨️ 3D Printing**
+Hands-on with printers, filaments, and projects. Real tests, honest takes.
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- Tech Stack -->
+### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Nomad-00D586?logo=nomad&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Consul-F24C53?logo=consul&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Vault-000000?logo=vault&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/CI/CD-2088FF?logo=githubactions&logoColor=white&style=flat-square" />
+  <br/>
+  <img src="https://img.shields.io/badge/Podman-892CA0?logo=podman&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=flat-square" />
+  <img src="https://img.shields.io/badge/Shell_Script-4EAA25?logo=gnu-bash&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Proxmox-E57000?logo=proxmox&logoColor=white&style=flat-square" />
+</p>
+
+---
+
+<!-- Streak -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=caiodelgadonew&theme=dark&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=caiodelgadonew&hide_border=true" />
+    <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=caiodelgadonew&theme=dark&hide_border=true" />
+  </picture>
+</p>
+
+---
+
+<!-- Activity Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=caiodelgadonew&theme=react-dark&hide_border=true&area=true" width="95%" />
+</p>
+
+---
+
+<!-- Footer -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/caiodelgadonew/caiodelgadonew/main/img/triforce.png" width="20" />
+  <img src="https://raw.githubusercontent.com/caiodelgadonew/caiodelgadonew/main/img/penguin.gif" width="20" />
+</p>
+<p align="center"><i>"I am no Jedi"</i></p>
