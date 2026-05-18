@@ -3,7 +3,7 @@
 
 <!-- Language Toggle -->
 <p align="right">
-  🇬🇧 English · <a href="#user-content-oi-eu-sou-o-caio">🇧🇷 Português</a>
+  🇬🇧 English · 🇧🇷 Português
 </p>
 
 <!-- About EN -->
