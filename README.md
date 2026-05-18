@@ -1,7 +1,12 @@
 <!-- Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&fontColor=e0e0e0&height=180&section=header&text=Caio%20Delgado&fontSize=38&fontAlignY=35&desc=Platform%20Engineer%20%7C%20Tech%20Creator%20%7C%20Amsterdam%20%F0%9F%87%B3%F0%9F%87%B1&descSize=18&descAlignY=55" />
 
-<!-- About -->
+<!-- Language Toggle -->
+<p align="right">
+  <a href="https://github.com/caiodelgadonew/caiodelgadonew">🇬🇧 English</a> · <a href="https://github.com/caiodelgadonew/caiodelgadonew/blob/main/README.pt-br.md">🇧🇷 Português</a>
+</p>
+
+<!-- About EN -->
 ### 👋 Hey, I'm Caio
 
 Brazilian tech creator based in **Amsterdam**. Platform Engineer by day, content creator by night.
@@ -9,6 +14,20 @@ Brazilian tech creator based in **Amsterdam**. Platform Engineer by day, content
 I make practical, honest content about **DevOps, containers, homelab, 3D printing**, and tech that actually matters. Sometimes in two languages.
 
 Self-described frustrated musician, Zelda fan, and someone who occasionally takes down production environments. Not necessarily in that order.
+
+<details>
+  <summary>🇧🇷 Clique aqui para Português</summary>
+  <br/>
+
+### 👋 E aí, eu sou o Caio
+
+Criador de conteúdo tech brasileiro morando em **Amsterdam**. Platform Engineer de dia, criador de conteúdo à noite.
+
+Faço conteúdo prático e honesto sobre **DevOps, containers, homelab, impressão 3D** e tecnologia que realmente importa. Às vezes em dois idiomas.
+
+Autodefinido músico frustrado, fã de Zelda, e alguém que ocasionalmente derruba ambientes de produção. Não necessariamente nessa ordem.
+
+</details>
 
 <!-- Links -->
 <p align="center">
@@ -46,6 +65,20 @@ Hands-on with printers, filaments, and projects. Real tests, honest takes.
 </td>
 </tr>
 </table>
+
+<details>
+  <summary>🇧🇷 O que eu faço (Português)</summary>
+  <br/>
+
+**🖥️ Homelab & Mini PCs** — Montando, configurando e revisando setups de homelab. NAS, servidores, rede — a pilha completa.
+
+**🔍 Reviews de Tech** — Reviews honestas e práticas. Se vale seu tempo, eu aviso. Se não vale, também aviso.
+
+**🐳 DevOps & Containers** — Docker, Terraform, CI/CD. Infraestrutura como código explicada sem enrolação.
+
+**🖨️ Impressão 3D** — Mão na massa com impressoras, filamentos e projetos. Testes reais, opiniões honestas.
+
+</details>
 
 ---
 
